@@ -1,0 +1,9 @@
+1:
+    ildc 10
+    ildc -304
+    isub
+2:
+    dup
+3:
+4:
+    dup
